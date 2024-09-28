@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni Mora</h1>
-<h3 align="center">AI Engineer, Experienced Full Stack Web Developer | eCommerce Specialist <br/> APIs Automation, Modern Integrations <br/> Marketing - Strategies: META Ads & Google Ads - SEO 🧠</h3>
+<h3 align="center">AI Engineer, Experienced Full Stack Web Developer | eCommerce Specialist, APIs Automation, Modern Integrations <br/> Marketing Strategies: META Ads & Google Ads - SEO 🧠</h3>
 
 <!-- - [Check Out My Portfolio Website](https://cgmorah.github.io/cgmorah-developer/). -->
 
