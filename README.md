@@ -11,7 +11,7 @@
     - [MindArc](https://github.com/cgmorah/frontend-assessment-magento): Frontend exercises.
 - 🌱 I’m currently learning and improving on Python, LLM, & AI Tech. 
 - 👨‍💻 All of my projects are available at [https://github.com/cgmorah](https://github.com/cgmorah)
-- 💬 Ask me about **eCommerce, APIs, Modern Integrations Websites, Marketing Strategies, AI and Automation**
+- 💬 Ask me about **Full Stack Developer, Modern Integrations Websites, eCommerce, APIs, AI Automation, Marketing Strategies**
 - 👯 I’m looking to collaborate on Interesting Projects that will make people and communities better. 
 - 📫 How to reach me: **cgmorah [@] gmail.com**
 - ⚡ Fun fact: ...loading....
