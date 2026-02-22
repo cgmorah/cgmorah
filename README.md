@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Giovanni Mora</h1>
-<h3 align="center">AI-Augmented Software Engineer building scalable SaaS, eCommerce and automation systems.</h3>
+<h3 align="center">AI-Augmented Product Engineer building scalable SaaS, automation-first platforms and performance-driven systems.</h3>
 
 <br/>
 
@@ -15,7 +15,7 @@ I design intelligent digital products that connect:<br/>
 | | |
 |---|---|
 | 🧩 | **SaaS & MVP Architecture** |
-| � | **eCommerce Systems** |
+| 🏪 | **eCommerce Systems** |
 | 📈 | **Growth & Performance Infrastructure** |
 
 ---
@@ -39,7 +39,7 @@ I use multi-model AI workflows (GPT, Claude, LLM-assisted coding) to accelerate:
 - Rapid MVP prototyping
 - Technical documentation
 
-> AI is not a buzzword in my workflow — it's part of the engineering process.
+> AI is integrated into my engineering workflow for architecture planning, backend logic design and rapid product iteration.
 
 ---
 
